@@ -405,9 +405,6 @@ const TR_CITIES = [{
 }
 ];
 
-
-// World Countries List
-
 const COUNTRIES = [
   {
     "UlkeAdi": "TURKIYE",
